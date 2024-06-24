@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# SelfIgnore
+NpixelServerStudy\boost_1_85_0/
+*.ipp
+*.html
+*.png
+*.js
+.vs/
